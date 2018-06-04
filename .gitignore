@@ -1,0 +1,10 @@
+.gradle
+.idea
+*/out/
+*/*/out/
+*/build/
+*/*/build/
+*.class
+
+META-INF
+face
